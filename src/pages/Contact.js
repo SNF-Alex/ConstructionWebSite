@@ -17,7 +17,7 @@ const ContactPage = () => {
             <div className="info-cards">
               <div className="card"><h3>Address</h3><p>123 Main St, Largo, FL 33770</p></div>
               <div className="card"><h3>Phone</h3><p>(727) 123-4567</p></div>
-              <div className="card"><h3>Email</h3><p>info@jpaconstruction.com</p></div>
+              <div className="card"><h3>Email</h3><p>info@JPAContractorsInc.com</p></div>
             </div>
           </div>
         </section>
